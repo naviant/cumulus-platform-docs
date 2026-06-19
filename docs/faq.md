@@ -44,6 +44,11 @@ development as part of our product roadmap.
 See [Release Notes](release-notes.md) for our public changelog and latest
 customer-facing update summary.
 
+## Where can I check if the platform is up?
+
+Visit the [Platform Status page](https://naviant.hyperping.app/) for real-time
+uptime and availability across all services.
+
 ## Where can I see service incidents?
 
 We maintain a transparency log in [Incident Reports](incidents/index.md). No

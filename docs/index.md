@@ -21,6 +21,8 @@ administrators get the most out of the platform.
 - **[FAQ](faq.md)** — Quick answers to common questions.
 - **[Incident Reports](incidents/index.md)** — Our transparency log for service
   incidents.
+- **[Platform Status](https://naviant.hyperping.app/)** — Real-time uptime and
+  availability for all platform services.
 
 !!! info "Need help?"
 If you can't find what you're looking for, contact

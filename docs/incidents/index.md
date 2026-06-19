@@ -10,5 +10,5 @@ No incidents have been reported to date. We maintain a formal incident response
 process and will publish a summary here should a significant incident occur.
 
 !!! info
-For real-time service status, contact
-[Naviant Customer Support](https://naviant.com/customer-support/).
+For real-time service status, visit the
+[Platform Status page](https://naviant.hyperping.app/).
