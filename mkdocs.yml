@@ -1,0 +1,50 @@
+site_name: Cumulus Platform Documentation
+site_description: Product documentation, guides, and references for the Cumulus Agentic Platform.
+site_author: Naviant
+copyright: Copyright &copy; Naviant. All rights reserved.
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+    - navigation.sections
+    - navigation.top
+    - content.code.copy
+    - search.suggest
+
+nav:
+  - Home: index.md
+  - User Guide:
+      - Getting Started: user-guide/getting-started.md
+      - Core Concepts: user-guide/core-concepts.md
+  - Knowledge Base:
+      - Overview: knowledge-base/index.md
+      - Managing Access: knowledge-base/managing-access.md
+      - Data & Privacy: knowledge-base/data-and-privacy.md
+  - API Reference: api-reference.md
+  - FAQ: faq.md
+  - Status & Incidents:
+      - Incident Reports: incidents/index.md
+
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.highlight
+  - pymdownx.superfences
+
+plugins:
+  - search
