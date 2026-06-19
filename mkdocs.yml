@@ -33,6 +33,7 @@ nav:
       - Overview: knowledge-base/index.md
       - Managing Access: knowledge-base/managing-access.md
       - Data & Privacy: knowledge-base/data-and-privacy.md
+      - Security Information: knowledge-base/security-information.md
   - API Reference: api-reference.md
   - FAQ: faq.md
   - Status & Incidents:

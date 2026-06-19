@@ -22,6 +22,11 @@ certification by the end of Q2 and **SOC 2 Type 2** by the end of Q3, with
 additional certifications such as HIPAA and ISO 42001 to follow. See
 [Data & Privacy](knowledge-base/data-and-privacy.md) for details.
 
+## Where can I find your security information page?
+
+See [Security Information](knowledge-base/security-information.md) for a public
+overview of our security practices.
+
 ## Can I integrate with the platform programmatically?
 
 Yes. Cumulus is delivered as an API-first service today, so integration is the
