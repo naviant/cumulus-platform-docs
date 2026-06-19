@@ -39,6 +39,11 @@ Not yet. The platform is currently API-only. A web console with self-service
 management, real-time metrics, and richer transparency is actively in
 development as part of our product roadmap.
 
+## Where can I find product updates or release notes?
+
+See [Release Notes](release-notes.md) for our public changelog and latest
+customer-facing update summary.
+
 ## Where can I see service incidents?
 
 We maintain a transparency log in [Incident Reports](incidents/index.md). No

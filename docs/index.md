@@ -15,6 +15,7 @@ administrators get the most out of the platform.
   administrative tasks.
 - **[Security Information](knowledge-base/security-information.md)** — Public
   overview of our security practices.
+- **[Release Notes](release-notes.md)** — Public changelog of platform updates.
 - **[API Reference](api-reference.md)** — Overview of how to integrate with the
   platform programmatically.
 - **[FAQ](faq.md)** — Quick answers to common questions.
